@@ -1,1 +1,1 @@
-# examen_AGO
+Texto personalizado para el README
